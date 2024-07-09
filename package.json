@@ -1,0 +1,12 @@
+{
+  "name": "furrbot",
+  "version": "1.0.0",
+  "description": "FurrBot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "GuikiPT",
+  "license": "ISC"
+}
